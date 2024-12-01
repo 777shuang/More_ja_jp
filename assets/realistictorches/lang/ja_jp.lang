@@ -1,0 +1,13 @@
+# Realistic Torches - Language File
+# JAPAN - JAPANESE
+
+# BLOCKS
+tile.realistictorches.torch_unlit.name=消灯松明
+tile.realistictorches.torch_lit.name=点灯松明
+tile.realistictorches.torch_smoldering.name=くすぶる松明
+tile.realistictorches.moving_light_source.name=光源を移動
+
+# ITEMS
+item.realistictorches.matchbox.name=マッチ箱
+item.realistictorches.glowstone_crystal.name=グロウストーン クリスタル
+item.realistictorches.glowstone_paste.name=グロウストーン ペースト

@@ -1,0 +1,37 @@
+tile.collector_Mk6.name=EMC コレクターMK6
+tile.collector_Mk7.name=EMC コレクターMK7
+tile.collector_Mk8.name=EMC コレクターMK8
+tile.collector_Mk9.name=EMC コレクターMK9
+tile.collector_Mk10.name=EMC コレクターMK10
+tile.collector_Mk99.name=最終型 EMC コレクターMK11
+tile.pe_condenser_mk3.name=エナジーコンデンサーMk3
+tile.pe_condenser_grade0.name=コンデンサーグレード0
+tile.AEGUEX_MK1.name=AEGUEXMK4
+tile.AEGUEX_MK2.name=強化型AEGUEXMK5
+tile.AEGUEX_MK3.name=超究極型AEGUEXMK6
+tile.AEGUEX_MK4.name=最終型AEGUEXMK7
+tile.relay_Mk4.name=反物質炉MK4
+tile.relay_Mk5.name=反物質炉MK5
+tile.relay_Mk99.name=最終型反物質炉
+tile.bluematterblock.name=ブルーマターブロック
+tile.chaosmatterblock.name=カオスマターブロック
+item.bluematter.name=ブルーマター
+item.chaosmatter.name=カオスマター
+item.archangering.mk2.name=大天使の指輪MK2
+item.bm_armor_head.name=ブルーマターのヘルメット
+item.bm_armor_chest.name=ブルーマターのチェストプレート
+item.bm_armor_legs.name=ブルーマターのレギンス
+item.bm_armor_feet.name=ブルーマターのブーツ
+item.cm_armor_head.name=カオスマターのヘルメット
+item.cm_armor_chest.name=カオスマターのチェストプレート
+item.cm_armor_legs.name=カオスマターのレギンス
+item.cm_armor_feet.name=カオスマターのブーツ
+
+tile.collector_Mk4.name=EMCコレクターMK4
+tile.collector_Mk5.name=EMCコレクターMK5
+tile.AEGU_MK1.name=錬金術的エネルギー生成装置 MK1
+tile.AEGU_MK2.name=発展型AEGU MK2
+tile.AEGU_MK3.name=究極型AEGU MK3
+
+peex.update.client=§d§lPEEX§rが%1$sにアップデートされました ! §5§nここからダウンロードしてください !§r
+peex.update.server=PEEXが%1$sにアップデートされました。 ダウンロードはこちら: %2$s.

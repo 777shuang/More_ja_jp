@@ -1,0 +1,83 @@
+gravisuite.ultimateLappack=究極型ラップパック
+gravisuite.advancedLappack=発展型ラップパック
+
+gravisuite.advancedJetpack=発展型電気ジェットパック
+gravisuite.advancedNanoChestplate=発展型ナノチェストプレート
+gravisuite.graviChestplate=グラヴィチェストプレート
+
+gravisuite.advancedDrill=発展型ダイヤモンドのドリル
+gravisuite.advancedDrill.mode=モード : %s
+gravisuite.advancedDrill.normal=ノーマル
+gravisuite.advancedDrill.lowPower=低電力
+gravisuite.advancedDrill.fine=Fine
+gravisuite.advancedDrill.bigHoles=大きな穴
+gravisuite.advancedDrill.ranOut=この操作を完了するのに十分なエネルギーがありません !
+
+gravisuite.advancedChainsaw=発展型チェーンソー
+gravisuite.advancedChainsaw.shear=剪断 %s
+
+gravisuite.graviTool=グラヴィツール
+gravisuite.graviTool.set=%s (%s)
+gravisuite.graviTool.changeTool=%s 有効化
+gravisuite.graviTool.hoe=クワ
+gravisuite.graviTool.treetap=木製水栓
+gravisuite.graviTool.wrench=レンチ
+gravisuite.graviTool.screwdriver=ドライバー
+gravisuite.graviTool.noEnergy=この操作を完了するのに十分なエネルギーがありません !
+
+gravisuite.vajra=ヴァジラ
+gravisuite.vajra.silkTouch=シルクタッチモード %s
+gravisuite.vajra.silkTouchDisabled=ツールモードを変更できません-設定ファイルで正確なモードが無効になっています !
+
+gravisuite.crafting.superconductor_cover=超電導カバー
+gravisuite.crafting.superconductor=超伝導体
+gravisuite.crafting.cooling_core=冷却コア
+gravisuite.crafting.gravitation_engine=重力エンジン
+gravisuite.crafting.magnetron=マグネトロン
+gravisuite.crafting.vajra_core=ヴァジラコア
+gravisuite.crafting.engine_booster=エンジンブースター
+
+
+gravisuite.message.on=オン
+gravisuite.message.off=オフ
+gravisuite.message.energy=エネルギーレベル : %s
+gravisuite.message.hover=(ホバーモード)
+gravisuite.message.jetpackEngine=ジェットパックエンジン ON %s
+gravisuite.message.jetpackSwitch=ジェットパックエンジンが切り替わりました %s
+
+
+message.text.energyLevel=エネルギーレベル
+message.text.enabled=有効
+message.text.disabled=無効
+
+message.text.powerSupply=電源
+message.graviChestPlate.gravitationEngine=重力エンジン
+message.graviChestPlate.levitationMode=浮上モード
+message.graviChestPlate.levitationMode.short=L
+message.graviChestPlate.lowEnergy=重力エンジンを実行するのに十分なエネルギーがありません !
+message.graviChestPlate.shutdown=警告 ! あなたのエネルギーセルは使い果たされています ! 重力エンジンオフ
+message.graviChestPlate.noEnergyToBoost=ブーストするのに十分なエネルギーがありません !
+message.hud.displayHud=HUDを表示
+message.hud.location=HUDの場所
+message.hud.location.topLeft=左上
+message.hud.location.topRight=右上
+message.hud.location.bottomLeft=左下
+message.hud.location.bottomRight=右下
+
+block.relocatorPortal.name=リロケーターポータル
+item.relocator.name=リロケーター
+item.relocator.gui.addPoint=新しいポイントを追加
+
+message.relocator.mode.personal=個人的
+message.relocator.mode.translocator=トランスロケーター
+message.relocator.mode.portal=ポータル
+message.relocator.defPoint=デフォルト
+message.relocator.text.poindAdded=テレポートリストに追加 !
+message.relocator.text.pointExists=テレポートリストにすでに存在します !
+message.relocator.text.memoryFull=ポイントを追加できません。 メモリがいっぱいです。
+message.relocator.text.cantSetPointPoint=デフォルトのテレポートポイントを設定できません。 テレポートポイントが見つかりません。
+message.relocator.text.noDefaultPoint=デフォルトのテレポートポイントが設定されていません
+message.relocator.text.modeTranslocatorDisabled=サーバーでトランスロケーターモードが無効になっています !
+message.relocator.text.modePortalDisabled=サーバーでポータルモードが無効になっています !
+message.relocator.text.messageToTarget=あなたをテレポートしようとしました !
+message.relocator.text.defaultPointSet=デフォルトのテレポートポイントを設定する

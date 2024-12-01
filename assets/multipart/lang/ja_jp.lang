@@ -1,0 +1,39 @@
+microblock.missing=次のマイクロブロックはこのクライアントにインストールされていません : %s
+multipart.missing=次のマルチパーツはこのクライアントにインストールされていません : %s
+
+itemGroup.microblockcbe=MicroBlock CBE
+
+item.microblockcbe:saw_stone.name=石の手鋸
+item.microblockcbe:saw_iron.name=鉄の手鋸
+item.microblockcbe:saw_diamond.name=ダイヤモンドの手鋸
+item.microblockcbe:stone_rod.name=石の棒
+
+mcr_face.1.name=%s カバー
+mcr_face.1.subset=カバー
+mcr_face.2.name=%s パネル
+mcr_face.2.subset=パネル
+mcr_face.4.name=%s 平板
+mcr_face.4.subset=平板
+
+mcr_hllw.1.name=中空 %s カバー
+mcr_hllw.1.subset=中空 カバー
+mcr_hllw.2.name=中空 %s パネル
+mcr_hllw.2.subset=中空 パネル
+mcr_hllw.4.name=中空 %s 平板
+mcr_hllw.4.subset=中空 平板
+
+mcr_edge.1.name=%sの棒
+mcr_edge.1.subset=棒
+mcr_edge.2.name=%sの柱
+mcr_edge.2.subset=柱
+mcr_edge.4.name=%sの柱
+mcr_edge.4.subset=柱
+
+mcr_cnr.1.name=%s Nook
+mcr_cnr.1.subset=Nook
+mcr_cnr.2.name=%s Corner
+mcr_cnr.2.subset=Corner
+mcr_cnr.4.name=%s Notch
+mcr_cnr.4.subset=Notch
+
+nei.subsets.Microblocks=Microblocks

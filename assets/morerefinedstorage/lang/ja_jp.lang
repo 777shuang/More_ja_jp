@@ -1,0 +1,164 @@
+#Blocks
+tile.morerefinedstorage.crystalized_block.name=クリスタルブロック
+item.morerefinedstorage.crystalized_ingot.name=クリスタルインゴット
+item.morerefinedstorage.crystalized_dust.name=クリスタルの粉
+item.morerefinedstorage.crystalized_nugget.name=クリスタルの塊
+
+#Tools
+item.morerefinedstorage.crystalized_pickaxe.name=クリスタルのツルハシ
+item.morerefinedstorage.crystalized_axe.name=クリスタルの斧
+item.morerefinedstorage.crystalized_shovel.name=クリスタルのシャベル
+item.morerefinedstorage.crystalized_sword.name=クリスタルの剣
+item.morerefinedstorage.crystalized_hoe.name=クリスタルのクワ
+item.morerefinedstorage.crystalized_shears.name=クリスタルのハサミ
+
+#Armors
+item.morerefinedstorage.crystalized_helmet.name=クリスタルのヘルメット
+item.morerefinedstorage.crystalized_chestplate.name=クリスタルのチェストプレート
+item.morerefinedstorage.crystalized_leggings.name=クリスタルのレギンス
+item.morerefinedstorage.crystalized_boots.name=クリスタルのブーツ
+
+#Machines
+tile.morerefinedstorage.fusion_furnace.name=注入炉
+tile.morerefinedstorage.fusion_furnace_lit.name=注入炉
+container.fusion_furnace=注入炉
+
+#Item Storage Parts
+item.morerefinedstorage.storagepart.65m.name=65.5M ストレージパーツ
+item.morerefinedstorage.storagepart.262m.name=262M ストレージパーツ
+item.morerefinedstorage.storagepart.1b.name=1G ストレージパーツ
+
+#Item Storage Disks
+item.morerefinedstorage.storagecell.65m.name=65.5M ストレージディスク
+item.morerefinedstorage.storagecell.262m.name=262M ストレージディスク
+item.morerefinedstorage.storagecell.1b.name=1G ストレージディスク
+
+#Fluids
+item.morerefinedstorage.crystalized_bucket.name=クリスタルのバケツ
+item.morerefinedstorage.crystalized.name=クリスタル
+fluid.crystalized=クリスタル
+
+#Advancements
+advancements.welcome=More Refined Storage へようこそ
+advancements.crystalized_legs_ach=スーツアップ
+advancements.crystalized_legs_ach.desc=スタイリッシュなクリスタルレギンスで群衆から目立つ !
+advancements.crystalizedShearsAch=羊の剪毛
+advancements.crystalizedShearsAch.desc=最後に、すぐに壊れないハサミ !
+advancements.fusionfurnaceAch=合体 !
+advancements.fusionfurnaceAch.desc=注入炉を作り、新しい可能性を切り開く
+
+#Mobs
+entity.glaceskeleton.name=グレーススケルトン
+entity.morerefinedstorage.glaceskeleton.name=グレーススケルトン
+entity.frost_shot.name=フロストショット
+
+#Potions, splashes, linering and tipped arrows
+potion.effect.Freezing=凍結のポーション
+splash_potion.effect.Freezing=凍結のスプラッシュポーション
+tipped_arrow.effect.Freezing=凍結の矢
+lingering_potion.effect.Freezing=凍結の残留ポーション
+
+#Enchantment Books
+enchantment.Freeze=凍結
+enchantment.AntiFreeze=凍結耐性
+
+#Effects
+effect.Freezing=凍結
+
+#Waila
+container.morerefinedstorage.progress=進捗 : %s
+
+#JEI
+morerefinedstorage.jei.furnace=注入炉
+morerefinedstorage.jei.fusionCategory=注入炉
+jei.crystalized_dust.desc=雪の上にスポーンするグレーススケルトンからドロップします。
+
+#JER
+morerefinedstorage.jer.structure=構造
+
+#GuideAPI
+# \n => new line
+#Lines that ends with .name => named items in the book, .info => information about a item, block etc
+
+#Book title
+guide.morerefinedstorage.morerefinedguide.name=More Refined Storage ガイド
+
+#Category Titles
+guide.morerefinedstorage.category.blocks.name=ブロック
+guide.morerefinedstorage.category.items.name=アイテム
+guide.morerefinedstorage.category.mobs.name=Mob
+guide.morerefinedstorage.category.tools.name=道具
+guide.morerefinedstorage.category.combat.name=戦闘
+guide.morerefinedstorage.category.enchanting.name=エンチャント
+
+#Items
+guide.morerefinedstorage.category.items.entry.crystalizeddust.name=クリスタルの粉
+guide.morerefinedstorage.category.items.entry.crystalizedingot.name=クリスタルインゴット
+guide.morerefinedstorage.category.items.entry.crystalizednugget.name=クリスタルの塊
+guide.morerefinedstorage.category.items.entry.64mstoragepart.name=65.5M ストレージパーツ
+guide.morerefinedstorage.category.items.entry.262mstoragepart.name=262M ストレージパーツ
+guide.morerefinedstorage.category.items.entry.1bstoragepart.name=1G ストレージパーツ
+guide.morerefinedstorage.category.items.entry.64mstoragedisk.name=65.5M ストレージディスク
+guide.morerefinedstorage.category.items.entry.262mstoragedisk.name=262M ストレージディスク
+guide.morerefinedstorage.category.items.entry.1bstoragedisk.name=1G ストレージディスク
+guide.morerefinedstorage.entry.crystalizednugget.info=クリスタルの塊は、結晶化した鶏からドロップします。これを使用して、クリスタルインゴットを作成できます。
+guide.morerefinedstorage.entry.crystalizedingot.info=クリスタルインゴットは、クリスタルの粉、鉄、プリズム結晶を注入炉で組み合わせて作られます。クリスタルインゴットは、より大きなドライブ、防具、道具のクラフトに使用されます。
+guide.morerefinedstorage.entry.crystalizeddust.info=クリスタルの粉は、グレーススケルトンドロップしますが、クリスタルインゴットの主要部分でもあります。
+guide.morerefinedstorage.entry.64mstoragepart.info=65M ストレージディスクを作成するために使用されます
+guide.morerefinedstorage.entry.262mstoragepart.info=262M ストレージディスクを作成するために使用されます
+guide.morerefinedstorage.entry.1bstoragepart.info=1G ストレージディスクを作成するために使用されます
+guide.morerefinedstorage.entry.64mstoragedisk.info=このストレージディスクは6500万個のアイテムを保持できます。
+guide.morerefinedstorage.entry.262mstoragedisk.info=このストレージディスクは262万個のアイテムを保持できます。
+guide.morerefinedstorage.entry.1bstoragedisk.info=このストレージディスクは10億個のアイテムを保持できます。
+
+#Combat Tools
+guide.morerefinedstorage.category.combat.entry.crystalizedsword.name=クリスタルの剣
+guide.morerefinedstorage.category.combat.entry.crystalizedhelmet.name=クリスタルヘルメット
+guide.morerefinedstorage.category.combat.entry.crystalizedchestplate.name=クリスタルのチェストプレート
+guide.morerefinedstorage.category.combat.entry.crystalizedlegging.name=クリスタルのレギンス
+guide.morerefinedstorage.category.combat.entry.crystalizedboot.name=クリスタルのブーツ
+guide.morerefinedstorage.entry.combatsword.info=クリスタルの剣は6の攻撃ダメージを与えます。
+guide.morerefinedstorage.entry.combathelmet.info=クリスタルインゴットで作られたヘルメット。
+guide.morerefinedstorage.entry.combatchestplate.info=クリスタルインゴットで作られたチェストプレート。
+guide.morerefinedstorage.entry.combatlegging.info=クリスタルインゴットで作られたレギンス。
+guide.morerefinedstorage.entry.combatboot.info=クリスタルインゴットで作られたブーツ。
+
+#Tools
+guide.morerefinedstorage.category.tools.entry.crystalizedaxe.name=クリスタルの斧
+guide.morerefinedstorage.category.tools.entry.crystalizedpickaxe.name=クリスタルのツルハシ
+guide.morerefinedstorage.category.tools.entry.crystalizedshovel.name=クリスタルのシャベル
+guide.morerefinedstorage.category.tools.entry.crystalizedhoe.name=クリスタルのクワ
+guide.morerefinedstorage.category.tools.entry.crystalizedshear.name=クリスタルのハサミ
+guide.morerefinedstorage.entry.toolsaxe.info=クリスタルインゴットで作られた斧。
+guide.morerefinedstorage.entry.toolspickaxe.info=クリスタルインゴットで作られたツルハシ。
+guide.morerefinedstorage.entry.toolsshovel.info=クリスタルインゴットで作られたシャベル。
+guide.morerefinedstorage.entry.toolshoe.info=クリスタルインゴットで作られたクワ。
+guide.morerefinedstorage.entry.toolsshear.info=クリスタルインゴットで作られたハサミ。
+
+#Blocks
+guide.morerefinedstorage.category.blocks.entry.crystalizedblock.name=クリスタルブロック
+guide.morerefinedstorage.category.blocks.entry.infusionfurnace.name=注入炉
+guide.morerefinedstorage.entry.infusionfurnace.info=注入炉は、クリスタルインゴットを作るために使用されます。
+guide.morerefinedstorage.entry.crystalizedblock.info=クリスタルブロックは、9つのクリスタルインゴットでできたブロックです。1つのクリスタルブロックから9個のクリスタルインゴットを作ることができます。
+
+#Mobs
+guide.morerefinedstorage.category.mobs.entry.glaceskeleton.name=グレーススケルトン
+guide.morerefinedstorage.entry.glaceskeleton.info=グレーススケルトンは、雪の上でのみスポーンし、凍ったボールを発射するクリーチャーで、それがプレイヤーに当たった場合に凍結の効果を与えます。死ぬとクリスタルの粉を落とします。
+
+#Enchanting
+guide.morerefinedstorage.category.enchanting.entry.enchantedbookfreeze.name=凍結
+guide.morerefinedstorage.category.enchanting.entry.enchantedantibookfreeze.name=凍結耐性
+guide.morerefinedstorage.category.enchanting.entry.potionfreeze.name=ポーション
+guide.morerefinedstorage.category.enchanting.entry.splashpotionfreeze.name=スプラッシュポーション
+guide.morerefinedstorage.category.enchanting.entry.lingeringpotionfreeze.name=残留ポーション
+guide.morerefinedstorage.category.enchanting.entry.arrowfreeze.name=凍結の矢
+guide.morerefinedstorage.entry.bookfreeze.info=弓に凍結の効果を与えるエンチャント。
+guide.morerefinedstorage.entry.bookantifreeze.info=チェストプレートに適用できる凍結に対する抵抗力を与えるエンチャント。
+guide.morerefinedstorage.entry.potionfreeze.info=凍結の効果を与えるポーション。
+guide.morerefinedstorage.entry.lingeringpotionfreeze.info=凍結の効果を与えるスプラッシュポーション。
+guide.morerefinedstorage.entry.splashpotionfreeze.info=当たった Mob に凍結の効果を与える矢。
+guide.morerefinedstorage.entry.arrowfreeze.info=凍結効果が適用された矢印。
+
+#Tinkers Construct
+fluid.morerefinedstorage.crystalized.name=クリスタル
+material.morerefinedstorage.crystalized.name=クリスタル

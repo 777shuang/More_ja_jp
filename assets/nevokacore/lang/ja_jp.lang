@@ -1,0 +1,14 @@
+# Tabs
+itemGroup.NevokaBlocks=Nevoka ブロック
+itemGroup.NevokaDecorations=Nevoka 装飾
+itemGroup.NevokaMaterials=Nevoka 材料
+itemGroup.NevokaTools=Nevoka 道具
+itemGroup.NevokaCombat=Nevoka 戦闘
+itemGroup.NevokaMachines=Nevoka 機械
+
+# Blocks
+tile.nevokacore.test_furnace.name=Test Furnace
+tile.nevokacore.lit_test_furnace.name=Test Furnace (Lit)
+
+#Container (GUI)
+container.nevokacore.test_furnace=Test Furnace

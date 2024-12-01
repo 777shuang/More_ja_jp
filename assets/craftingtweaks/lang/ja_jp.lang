@@ -1,0 +1,23 @@
+key.categories.craftingtweaks=Crafting Tweaks
+key.craftingtweaks.rotate=グリッドを回転
+key.craftingtweaks.rotat_counter_clockwise=グリッドを回転 (CCW)
+key.craftingtweaks.clear=グリッドを空にする
+key.craftingtweaks.force_clear=グリッドを強制的に空にする
+key.craftingtweaks.balance=グリッドを均等にする
+key.craftingtweaks.spread=グリッドを展開
+key.craftingtweaks.toggleButtons=トグルボタン
+key.craftingtweaks.compressOne=アイテムを圧縮
+key.craftingtweaks.compressStack=スタックを圧縮
+key.craftingtweaks.compressAll=全てを圧縮
+key.craftingtweaks.decompressOne=アイテムを解凍
+key.craftingtweaks.decompressStack=スタックを解凍
+key.craftingtweaks.decompressAll=全てを解凍
+key.craftingtweaks.refill_last=最後に補充
+key.craftingtweaks.refill_last_stack=最後に補充 (スタック)
+
+tooltip.craftingtweaks.rotate=グリッドを回転
+tooltip.craftingtweaks.balance=グリッドを均等にする
+tooltip.craftingtweaks.spread=グリッドを展開
+tooltip.craftingtweaks.clear=グリッドを空にする
+tooltip.craftingtweaks.forceClear=グリッドを強制的に空にする
+tooltip.craftingtweaks.forceClearInfo=必要に応じてアイテムをドロップ

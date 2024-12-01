@@ -1,0 +1,15 @@
+#Item
+item.ice_wand.name=アイスワンド
+#Mobs
+entity.Iceologer.name=氷の邪悪な村人
+entity.IceCube.name=アイスキューブ
+#Tabs
+itemGroup.iceologertab=Frozen Fiend
+#Subtitle
+subtitles.iceologer_ambient=氷の邪悪な村人のつぶやき
+subtitles.iceologer_hurt=氷の邪悪な村人を傷つける
+subtitles.iceologer_death=氷の邪悪な村人が死ぬ
+subtitles.iceologer_cast_spell=氷の邪悪な村人が呪文を唱える
+subtitles.iceologer_prepare_spell=アイスキューブの手品
+subtitles.ice_cube_hit=アイスキューブが地面にぶつかる
+subtitles.ice_cube_ambient=アイスキューブが浮揚する

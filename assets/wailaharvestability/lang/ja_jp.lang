@@ -1,0 +1,32 @@
+# tools
+wailaharvestability.toolclass.pickaxe=ツルハシ
+wailaharvestability.toolclass.shovel=シャベル
+wailaharvestability.toolclass.axe=斧
+wailaharvestability.toolclass.chisel=ノミ
+wailaharvestability.toolclass.scoop=スコップ
+wailaharvestability.toolclass.crowbar=バール
+wailaharvestability.toolclass.sword=剣
+
+# tooltips
+wailaharvestability.effectivetool=効果的な道具: 
+wailaharvestability.harvestlevel=収穫レベル: 
+wailaharvestability.currentlyharvestable=現在収穫可能
+wailaharvestability.harvestable=収穫可能
+
+# options
+option.harvestability.harvestlevel=収穫レベル
+option.harvestability.effectivetool=効果的な道具
+option.harvestability.currentlyharvestable=現在収穫可能
+option.harvestability.oresonly=鉱石のみ
+option.harvestability.harvestlevel.sneakingonly=スニークのみ: 収穫レベル
+option.harvestability.effectivetool.sneakingonly=スニークのみ: 効果的な道具
+option.harvestability.currentlyharvestable.sneakingonly=スニークのみ: 収穫可能
+option.harvestability.minimal=最小モード
+option.harvestability.unharvestableonly=収穫不可のみ
+option.harvestability.toolrequiredonly=必要な工具のみ
+option.harvestability.shearability=剪断性
+option.harvestability.shearability.sneakingonly=スニークのみ: 剪断性
+option.harvestability.silktouchability=シルクタッチ
+option.harvestability.silktouchability.sneakingonly=スニークのみ: シルクタッチ
+option.harvestability.harvestlevelnum=収穫レベル
+option.harvestability.harvestlevelnum.sneakingonly=スニークのみ: 収穫レベル

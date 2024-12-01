@@ -1,0 +1,48 @@
+#Creative Tab
+itemGroup.wtfic2addon:tab=HyCraftHD's WTF Ic2 Addon
+
+#Tiles
+wtfic2addon.te.solar_panel_low=基本太陽光発電機
+
+wtfic2addon.te.solar_panel_intermediatelow=中級[低]太陽光発電機
+wtfic2addon.te.solar_panel_intermediatemedium=中級[中]太陽光発電機
+wtfic2addon.te.solar_panel_intermediatehigh=中級[高]太陽光発電機
+
+wtfic2addon.te.solar_panel_advancedlow=発展型[低]太陽光発電機
+wtfic2addon.te.solar_panel_advancedmedium=発展型[中]太陽光発電機
+wtfic2addon.te.solar_panel_advancedhigh=発展型[高]太陽光発電機
+
+wtfic2addon.te.solar_panel_superior=優れた太陽光発電機
+
+wtfic2addon.te.solar_panel_intermediatewtf=中級WTF太陽光発電機
+wtfic2addon.te.solar_panel_advancedwtf=発展型WTF太陽光発電機
+wtfic2addon.te.solar_panel_extremewtf=§d§k究極形WTF太陽光発電機§r
+
+
+wtfic2addon.te.mfsu_compressed=圧縮MFSU
+wtfic2addon.te.mfsu_doublecompressed=2倍圧縮MFSU
+wtfic2addon.te.mfsu_triplecompressed=3倍圧縮MFSU
+wtfic2addon.te.mfsu_quadruplecompressed=4倍圧縮MFSU
+
+wtfic2addon.te.mfsu_extreme=§d§k究極形MFSU§r
+
+wtfic2addon.te.mfsu_convertable=Transformer MFSU
+
+#Item
+item.wtfic2addon:advanced_condensator_reflector.name=究極型コンデンサ反射器
+item.wtfic2addon:dense_iridium_reinforce_plate.name=高密度イリジウム補強プレート
+
+#Tooltips and Gui
+wtfic2addon:mfsu_convertable.use=すべての電圧を受け入れますが、低圧を出力します
+
+wtfic2addon:tooltip.solarpanel.generateDay=昼間発電量 : 
+wtfic2addon:tooltip.solarpanel.generateNight=夜間発電量 : 
+
+wtfic2addon:gui.energy=エネルギー
+wtfic2addon:gui.state=ステート
+
+wtfic2addon:gui.text.storage=蓄電: %s EU / %s EU
+wtfic2addon:gui.text.storageLong=蓄電: %s EU
+wtfic2addon:gui.text.capacity=容量: %s EU
+wtfic2addon:gui.text.generate=発電: %s EU/t
+wtfic2addon:gui.text.output=最大出力: %s EU/t
